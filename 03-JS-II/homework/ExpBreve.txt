@@ -1,0 +1,3 @@
+* `for` : el for es un bucle determinado donde el codigo se ejecuta hasta que yo lo pare, es decir por ejemplo voy a la verduleria y le pido manzanas por 5 kilos, entonces el empleado va a cargar la bolsa de a una manzana HASTA Que llegue a 5 kilos, cuando llena la bolsa con 5 kilos, se detiene
+
+* `&&`, `||`, `!` Son operadores logicos que basicamente significan &&:y, ||=o, !:no osea que si quiero comparar dos cosas con otra cosa entonces puedo usar el operador && es decir que basicamente esas dos cosas se declara "cosa1 && cosa2" y sigue el codigo. La o basicamente es esto o es aquello, "esto || aquello" solo para elegir una cosa o la otra. El no simplemente es para negar algo si tengo un valor y se escribe asi !7 !a !b !z !r !8
