@@ -1,0 +1,9 @@
+    * Variables: Es basicamente un caja donde puedo guardar juguetes de guerra y cuando deseo lo puedo cambiar por jugetes de heroes pero la caja va a seguir siendo la misma
+
+	* Strings: Es una cadena de texto como una frase de una canción en la cual tambien puedo incluir numeros o simbolos mientras esten en comillas ''
+
+	* Funciones (argumentos, `return`): Una funcion es una super caja donde puedo contener muchos juguetes juntos, de ahi salen los argumentos que es todo lo que tenemos dentro de nuestra super caja pero ahora quiero saber cuantos juguetes hay osea quiero obtenet un valor, es decir que usamos el return que despues de ver que juguetes hay (autitos, soldaditos) quiero saber cuantos y quiero que me retorne un valor
+
+	* Declaraciones `if`: con el if puedo hacer preguntas de logica si hay si no hay si no sabe, para entederlo mejor quiero preguntar cuantos soldaditos hay y cuantos autitos hay, si hay mas autitos que soldaditos debo guardarlos en la caja1 pero sino guardo los soldaditos en la caja1 
+	
+	* Valores booleanos (`true`, `false`) Los booleanos reponde a una simple pregunta donde algo puede ser verdadero o falso por ejemplo podemos preguntar si todos los autos son verdes, si es verdad voy a obtener un true pero si no son todos verdes voy a obtener un false
